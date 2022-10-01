@@ -2,3 +2,19 @@
     width: 30px;
     height: 30px;
 }
+
+.w-300px {
+    width: 300px;
+}
+
+@media (max-width: 425px) {
+    .logo-switch-2 {
+        display: hidden;
+    }
+}
+
+@media (min-width: 425px) and (max-width: 1024px) {
+    .logo-switch-1 {
+        display: hidden;
+    }
+}
