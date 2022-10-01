@@ -9,3 +9,4 @@
 - ` Images:`
     + K4LM3D *Banners* - Generated via [AutoCreative](https://auto.creavite.co/)
     + K4LM3D *Avatars* - Created via [ReadyPlayerMe](https://readyplayer.me/)
+    + K4LM3D *Logos* - 'Auto Techno Regular' font from [FontSpace](https://www.fontspace.com/)
